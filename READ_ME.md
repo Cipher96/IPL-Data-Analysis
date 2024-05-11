@@ -6,7 +6,7 @@ better analysis.
 
 
 #### Architecture Diagram: 
-![Architecture_Diagram.png](images%2FArchitecture_Diagram.png)
+![Architecture_Diagram.png](docs%2Fimages%2FArchitecture_Diagram.png)
 
 ### Tech Stack
 1. Databricks
